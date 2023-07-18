@@ -1,5 +1,3 @@
-package lessons.HW.Algorithms;
-
 public class HW2 {
     public static void main(String[] args) {
         int[] array = new int[] { 1, 5, 2, 7, 4, 6, 7, 4, 3, 8, 4, 9 };
